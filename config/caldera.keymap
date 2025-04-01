@@ -19,7 +19,7 @@
 &kp TAB                         &kp Q                   &kp W                   &kp E      &kp R         &kp T       &kp Y      &kp U   &kp I                &kp O                 &kp P               &mt PIPE BSLH
 &mt LA(LC(LG(LEFT_SHIFT))) ESC  &kp A                   &kp S                   &kp D      &kp F         &kp G       &kp H      &kp J   &kp K                &kp L                 &mt COLON SEMI      &kp RET
 &kp LSHFT                       &kp Z                   &kp X                   &kp C      &kp V         &kp B       &kp N      &kp M   &mt LESS_THAN COMMA  &mt GREATER_THAN DOT  &mt QUESTION SLASH  &mt DOUBLE_QUOTES APOS
-&mo 1                           &kp LG(LC(LEFT_SHIFT))  &kp LA(LC(LEFT_SHIFT))  &kp LCTRL  &kp LEFT_ALT  &kp LGUI    &kp SPACE  &mo 1   &kp LARW             &kp DARW              &kp UARW            &kp RARW
+&mo 1                           &kp LG(LC(LEFT_SHIFT))  &kp LA(LC(LEFT_SHIFT))  &kp LCTRL  &kp LEFT_ALT  &kp LGUI    &kp SPACE  &mo 1   &kp LEFT_ARROW       &kp DOWN_ARROW        &kp UP_ARROW        &kp RIGHT_ARROW
             >;
         };
 
